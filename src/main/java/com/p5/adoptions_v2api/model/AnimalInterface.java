@@ -6,7 +6,7 @@ package com.p5.adoptions_v2api.model;
  *
  * Pluses:
  * -generic implementation
- * -defines a contract(defines methods available to br used after initialization)
+ * -defines a contract(defines methods available to be used after initialization)
  *
  * Minuses:
  * -only public static fields
@@ -19,7 +19,6 @@ public interface AnimalInterface {
 
  /**
   * Generic implementation, does not depend on details at class level
-  *
   */
 
  default String defaultMethod()
