@@ -1,8 +1,8 @@
-package com.p5.adoptions_v2api.reosotory.cats;
+package com.p5.adoptions_v2api.reopository.dogs;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface CatRepository extends JpaRepository<Cat, Integer> {
+public interface DogRepository extends JpaRepository<Dog,Integer> {
 }

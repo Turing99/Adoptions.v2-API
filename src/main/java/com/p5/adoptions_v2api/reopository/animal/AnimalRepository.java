@@ -1,4 +1,4 @@
-package com.p5.adoptions_v2api.reosotory.animal;
+package com.p5.adoptions_v2api.reopository.animal;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

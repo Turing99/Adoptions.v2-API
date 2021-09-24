@@ -1,4 +1,4 @@
-package com.p5.adoptions_v2api.reosotory.animal;
+package com.p5.adoptions_v2api.reopository.animal;
 
 import javax.persistence.*;
 

@@ -1,6 +1,6 @@
-package com.p5.adoptions_v2api.reosotory.cats;
+package com.p5.adoptions_v2api.reopository.cats;
 
-import com.p5.adoptions_v2api.reosotory.animal.Animal;
+import com.p5.adoptions_v2api.reopository.animal.Animal;
 
 import javax.persistence.Entity;
 
